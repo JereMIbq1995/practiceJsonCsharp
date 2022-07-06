@@ -17,13 +17,17 @@ namespace Program {
             // Once everything is put in the list, you can traverse it
             foreach (Wall wall in walls) {
                 Console.WriteLine($"{wall.x}, {wall.y}, {wall.width}, {wall.height}");
+                
+                // comment the following out if you want this code to run
                 Actor newWall = new Actor(wall.x, wall.y, wall.width, wall.height);
                 cast.AddActor("walls", newWall);
             }
 
+
             // The action removes itself from the script
+            // (comment the following out if you want this code to run)
             script.RemoveAction("input", this);
-            
+
         }
     }
 }
