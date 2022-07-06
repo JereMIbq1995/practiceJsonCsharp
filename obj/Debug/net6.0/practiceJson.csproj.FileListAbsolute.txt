@@ -1,0 +1,15 @@
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\obj\Debug\net6.0\practiceJson.csproj.AssemblyReference.cache
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\obj\Debug\net6.0\practiceJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\obj\Debug\net6.0\practiceJson.AssemblyInfoInputs.cache
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\obj\Debug\net6.0\practiceJson.AssemblyInfo.cs
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\obj\Debug\net6.0\practiceJson.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\bin\Debug\net6.0\practiceJson.exe
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\bin\Debug\net6.0\practiceJson.deps.json
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\bin\Debug\net6.0\practiceJson.runtimeconfig.json
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\bin\Debug\net6.0\practiceJson.dll
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\bin\Debug\net6.0\ref\practiceJson.dll
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\bin\Debug\net6.0\practiceJson.pdb
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\obj\Debug\net6.0\practiceJson.dll
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\obj\Debug\net6.0\ref\practiceJson.dll
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\obj\Debug\net6.0\practiceJson.pdb
+C:\Users\Jeremy Duong\Projects\C#\practiceJson\obj\Debug\net6.0\practiceJson.genruntimeconfig.cache
